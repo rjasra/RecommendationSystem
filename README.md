@@ -48,18 +48,3 @@ Follow the steps in the provided Jupyter Notebook to preprocess data, visualize,
 - **📊 Data Visualization**: Understand user and movie voting patterns.
 - **💡 Easy Integration**: Simple to use and integrate into other projects.
 
-## Documentation
-
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [NumPy Documentation](https://numpy.org/doc/)
-- [SciPy Documentation](https://docs.scipy.org/doc/scipy/)
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
-
-## Exploratory Links
-
-- [Introduction to Collaborative Filtering](https://towardsdatascience.com/introduction-to-collaborative-filtering-6d45ab4a5a3e)
-- [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
-- [How to Build a Movie Recommendation System](https://www.datacamp.com/community/tutorials/recommender-systems-python)
-
